@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tayou\\source\\repos\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj": {}
+    "C:\\Users\\tayou\\source\\repos\\LeetCode\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tayou\\source\\repos\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj": {
+    "C:\\Users\\tayou\\source\\repos\\LeetCode\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tayou\\source\\repos\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj",
+        "projectUniqueName": "C:\\Users\\tayou\\source\\repos\\LeetCode\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj",
         "projectName": "LinkedListCycle",
-        "projectPath": "C:\\Users\\tayou\\source\\repos\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj",
+        "projectPath": "C:\\Users\\tayou\\source\\repos\\LeetCode\\LinkedListCycle\\LinkedListCycle\\LinkedListCycle.csproj",
         "packagesPath": "C:\\Users\\tayou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tayou\\source\\repos\\LinkedListCycle\\LinkedListCycle\\obj\\",
+        "outputPath": "C:\\Users\\tayou\\source\\repos\\LeetCode\\LinkedListCycle\\LinkedListCycle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
