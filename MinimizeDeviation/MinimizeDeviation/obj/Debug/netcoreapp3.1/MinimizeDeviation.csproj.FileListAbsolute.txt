@@ -1,0 +1,13 @@
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\bin\Debug\netcoreapp3.1\MinimizeDeviation.exe
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\bin\Debug\netcoreapp3.1\MinimizeDeviation.deps.json
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\bin\Debug\netcoreapp3.1\MinimizeDeviation.runtimeconfig.json
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\bin\Debug\netcoreapp3.1\MinimizeDeviation.runtimeconfig.dev.json
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\bin\Debug\netcoreapp3.1\MinimizeDeviation.dll
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\bin\Debug\netcoreapp3.1\MinimizeDeviation.pdb
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.csprojAssemblyReference.cache
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.AssemblyInfoInputs.cache
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.AssemblyInfo.cs
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.csproj.CoreCompileInputs.cache
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.dll
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.pdb
+C:\Users\tayou\source\repos\MinimizeDeviation\MinimizeDeviation\obj\Debug\netcoreapp3.1\MinimizeDeviation.genruntimeconfig.cache
