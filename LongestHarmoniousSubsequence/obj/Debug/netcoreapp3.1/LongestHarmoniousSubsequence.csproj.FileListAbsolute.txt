@@ -1,0 +1,11 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/bin/Debug/netcoreapp3.1/LongestHarmoniousSubsequence
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/bin/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/bin/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/bin/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/bin/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/bin/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/obj/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/obj/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/obj/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/obj/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/LongestHarmoniousSubsequence/obj/Debug/netcoreapp3.1/LongestHarmoniousSubsequence.pdb
