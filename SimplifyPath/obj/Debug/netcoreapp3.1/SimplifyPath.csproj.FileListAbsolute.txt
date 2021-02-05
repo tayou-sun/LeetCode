@@ -1,0 +1,11 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/obj/Debug/netcoreapp3.1/SimplifyPath.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/obj/Debug/netcoreapp3.1/SimplifyPath.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/obj/Debug/netcoreapp3.1/SimplifyPath.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/bin/Debug/netcoreapp3.1/SimplifyPath
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/bin/Debug/netcoreapp3.1/SimplifyPath.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/bin/Debug/netcoreapp3.1/SimplifyPath.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/bin/Debug/netcoreapp3.1/SimplifyPath.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/bin/Debug/netcoreapp3.1/SimplifyPath.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/bin/Debug/netcoreapp3.1/SimplifyPath.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/obj/Debug/netcoreapp3.1/SimplifyPath.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/SimplifyPath/obj/Debug/netcoreapp3.1/SimplifyPath.pdb
