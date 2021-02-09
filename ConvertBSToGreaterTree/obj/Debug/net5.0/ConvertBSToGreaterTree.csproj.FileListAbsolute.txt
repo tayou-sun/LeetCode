@@ -1,0 +1,15 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/bin/Debug/net5.0/ConvertBSToGreaterTree.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/bin/Debug/net5.0/ConvertBSToGreaterTree.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/bin/Debug/net5.0/ConvertBSToGreaterTree.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/bin/Debug/net5.0/ConvertBSToGreaterTree.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/bin/Debug/net5.0/ref/ConvertBSToGreaterTree.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/bin/Debug/net5.0/ConvertBSToGreaterTree.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.csproj.CoreCompileInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ref/ConvertBSToGreaterTree.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/ConvertBSToGreaterTree/obj/Debug/net5.0/ConvertBSToGreaterTree.genruntimeconfig.cache
