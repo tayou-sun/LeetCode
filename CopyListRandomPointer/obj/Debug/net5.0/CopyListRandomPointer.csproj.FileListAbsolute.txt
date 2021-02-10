@@ -1,0 +1,15 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.csproj.CoreCompileInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/bin/Debug/net5.0/CopyListRandomPointer.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/bin/Debug/net5.0/CopyListRandomPointer.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/bin/Debug/net5.0/CopyListRandomPointer.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/bin/Debug/net5.0/CopyListRandomPointer.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/bin/Debug/net5.0/ref/CopyListRandomPointer.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/bin/Debug/net5.0/CopyListRandomPointer.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/ref/CopyListRandomPointer.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CopyListRandomPointer/obj/Debug/net5.0/CopyListRandomPointer.genruntimeconfig.cache
