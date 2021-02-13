@@ -1,0 +1,15 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/bin/Debug/net5.0/RemoveKDigits.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/bin/Debug/net5.0/RemoveKDigits.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/bin/Debug/net5.0/RemoveKDigits.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/bin/Debug/net5.0/RemoveKDigits.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/bin/Debug/net5.0/ref/RemoveKDigits.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/bin/Debug/net5.0/RemoveKDigits.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.csproj.CoreCompileInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/ref/RemoveKDigits.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/RemoveKDigits/obj/Debug/net5.0/RemoveKDigits.genruntimeconfig.cache
