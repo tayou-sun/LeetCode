@@ -1,0 +1,15 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/bin/Debug/net5.0/FindLongestWord.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/bin/Debug/net5.0/FindLongestWord.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/bin/Debug/net5.0/FindLongestWord.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/bin/Debug/net5.0/FindLongestWord.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/bin/Debug/net5.0/ref/FindLongestWord.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/bin/Debug/net5.0/FindLongestWord.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.csproj.CoreCompileInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/ref/FindLongestWord.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/FindLongestWord/obj/Debug/net5.0/FindLongestWord.genruntimeconfig.cache

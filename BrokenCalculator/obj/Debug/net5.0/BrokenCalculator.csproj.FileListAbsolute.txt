@@ -1,0 +1,15 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/bin/Debug/net5.0/BrokenCalculator.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/bin/Debug/net5.0/BrokenCalculator.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/bin/Debug/net5.0/BrokenCalculator.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/bin/Debug/net5.0/BrokenCalculator.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/bin/Debug/net5.0/ref/BrokenCalculator.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/bin/Debug/net5.0/BrokenCalculator.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.csproj.CoreCompileInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/ref/BrokenCalculator.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/BrokenCalculator/obj/Debug/net5.0/BrokenCalculator.genruntimeconfig.cache
