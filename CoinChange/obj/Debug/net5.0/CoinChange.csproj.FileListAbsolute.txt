@@ -1,0 +1,15 @@
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/bin/Debug/net5.0/CoinChange.deps.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/bin/Debug/net5.0/CoinChange.runtimeconfig.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/bin/Debug/net5.0/CoinChange.runtimeconfig.dev.json
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/bin/Debug/net5.0/CoinChange.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/bin/Debug/net5.0/ref/CoinChange.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/bin/Debug/net5.0/CoinChange.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.csprojAssemblyReference.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.AssemblyInfoInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.AssemblyInfo.cs
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.csproj.CoreCompileInputs.cache
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/ref/CoinChange.dll
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.pdb
+/Users/shainurova.ekaterina/Documents/projects/LeetCode/CoinChange/obj/Debug/net5.0/CoinChange.genruntimeconfig.cache
